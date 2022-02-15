@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="cordova-plugin-clugintest" version="0.0.1">
-    <name>ToastyPlugin</name>
+        id="cordova-plugin-cplugintest" version="0.0.1">
+    <name>CPlugin</name>
 
     <description>My first Android Cordova plugin </description>
     <license>MIT</license>
 
     <keywords>cordova,android,test</keywords>
-    <repo>https://github.com/stanidesis/toastyplugin/Toast-PhoneGap-Plugin.git</repo>
-    <issue>https://github.com/stanidesis/toastyplugin/issues</issue>
+    <repo>https://github.com/gscapel/Cordova.git/</repo>
+    <issue>https://github.com/gscapel/Cordova/issues</issue>
   
     <engines>
         <engine name="cordova" version=">=3.0.0"/>
