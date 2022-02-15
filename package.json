@@ -1,0 +1,35 @@
+{
+  "name": "cordova-plugin-cplugintest",
+  "version": "0.0.1",
+  "description": "My first Cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-cplugintest",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gscapel/Cordova.git"
+  },
+  "keywords": [
+    "Toast",
+    "Notification",
+    "Message",
+    "Alert",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Giuseppe Scapellato<giuseppescapellato@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gscapel/Cordova/issues"
+  },
+  "homepage": "https://github.com/gscapel/Cordova/"
+}
